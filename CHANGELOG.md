@@ -1,4 +1,8 @@
-## 1.0.0-beta9 
+## 1.0.0-beta10
+
+- **Bug** Fix bug preventing Geocoding service being used without an `options` parameter when using promise syntax. [#197](https://github.com/mapbox/mapbox-sdk-js/pull/197)
+
+## 1.0.0-beta9
 
 - **Feature** Add language parameter to geocoding API. [#174](https://github.com/mapbox/mapbox-sdk-js/issues/174)
 
